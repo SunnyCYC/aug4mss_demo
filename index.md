@@ -1,7 +1,7 @@
 This is the demo page for the paper titled "Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation".
 
-## Abstract
-The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture [1].
+## Introduction
+The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture.
 
 ### Demo audio
 
@@ -14,5 +14,5 @@ The main purpose of this work is to allow users to apply mixing-specific data au
 
 ### Demo Video
 #### This video recording is a guitarist from our team playing a generated tab
-<iframe width="800" height="500" src="https://www.youtube.com/embed/yccH6kvinq0">
+<iframe width="300" height="200" src="https://www.youtube.com/embed/yccH6kvinq0">
 </iframe>
