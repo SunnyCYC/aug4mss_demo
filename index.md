@@ -4,6 +4,8 @@ This is the demo page for the paper titled “Mixing-Specific Data Augmentation 
 ## Introduction
 The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture.
 
+The following section demonstrates the 16 mixed test songs and also the estimations produced by two of the models (Random-mixing and Wet) mentioned in the paper.
+
 ### Demo audio
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v0
