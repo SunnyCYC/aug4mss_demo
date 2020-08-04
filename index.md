@@ -11,193 +11,145 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v0
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v1
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v0
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v1
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v2
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v3
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v4
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v5
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v6
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v7
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_ImpressionsOfSaturn_p0_v0
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_ImpressionsOfSaturn_p0_v1
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_TheFlaxenField_p0_v0
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MatthewEntwistle_TheFlaxenField_p0_v1
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### MutualBenefit_NotForNothing_p0_v0
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
 #### TheKitchenettes_Alive_p0_v0
 
-## Input Mixture ## <audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture <audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
-
 |---|---|---|---|
-
 |Violin Est.| <audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0\Estimates\Spleeter\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0\Estimates\DR_ORI_n2000\violin.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0\Estimates\DR_Wet_n2000\violin.mp3" controls="" preload=""></audio>|
-
 | Piano Est.| <audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0\Estimates\Spleeter\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0\Estimates\DR_ORI_n2000\piano.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0\Estimates\DR_Wet_n2000\piano.mp3" controls="" preload=""></audio>|
 
