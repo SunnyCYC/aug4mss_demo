@@ -11,8 +11,6 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v0
 
-#### JoelHelander_ExcessiveResistancetoChange_p0_v0
-
 <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
