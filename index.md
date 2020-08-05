@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo page of Mixing-Specific Augmentation for Music Source Separation</title>
+
+</head>
+<body>
+    <h1>Demo page of Mixing-Specific Augmentation for Music Source Separation</h1>
+
+</body>
+</html>
+
+
 This is the demo page for the paper titled “Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation”.
 
 
