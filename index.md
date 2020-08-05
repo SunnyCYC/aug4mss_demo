@@ -13,16 +13,16 @@
 </html>
 
 
-This is the demo page for the paper titled “Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation”.
+<center>This is the demo page for the paper titled “Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation”.</center>
 
 
 ## Introduction
 
-The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture.
+<center>The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture.
 
 The following section demonstrates the 16 test songs remixed from MedleyDB (unseen during training), and the predicted stems by Spleeter and two of our proposed models trained under data-rich scenario (**Model A**: Random Mixing, **Model B**: Wet).
 
-Note that both Model A and Model B outperform Spleeter since Spleeter was not pretrained on violin data. Model A achieves higher SDR for piano stems, and the augmented Model B performes better for violin stems.
+Note that both Model A and Model B outperform Spleeter since Spleeter was not pretrained on violin data. Model A achieves higher SDR for piano stems, and the augmented Model B performes better for violin stems.</center>
 
 ### Demo audio
 
