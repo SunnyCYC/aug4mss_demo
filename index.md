@@ -5,13 +5,16 @@ This is the demo page for the paper titled “Mixing-Specific Data Augmentation 
 
 The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture.
 
-The following section demonstrates the 16 mixed test songs and also the estimations produced by two of the models (Random-mixing and Wet) mentioned in the paper.
+The following section demonstrates the 16 mixed test songs remixed from MedleyDB (unseen during training), and the predicted stems by Spleeter and two of our proposed models trained under data-rich scenario (**Model A**: Random Mixing, **Model B**: Wet).
+
+Note that both Model A and Model B outperform Spleeter since Spleeter was not pretrained on violin data. Model A achieves higher SDR for piano stems, and the augmented Model B performes better for violin stems.
 
 ### Demo audio
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v0
 
-#### Input Mixture <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -20,7 +23,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v1
 
-#### Input Mixture <audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\JoelHelander_ExcessiveResistancetoChange_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -29,7 +33,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v0
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -38,7 +43,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v1
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -47,7 +53,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v2
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v2.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -56,7 +63,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v3
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v3.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -65,7 +73,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v4
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v4.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -74,7 +83,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v5
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v5.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -83,7 +93,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v6
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v6.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -92,7 +103,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_AnEveningWithOliver_p0_v7
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_AnEveningWithOliver_p0_v7.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -101,7 +113,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_ImpressionsOfSaturn_p0_v0
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -110,7 +123,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_ImpressionsOfSaturn_p0_v1
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_ImpressionsOfSaturn_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -119,7 +133,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_TheFlaxenField_p0_v0
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -128,7 +143,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MatthewEntwistle_TheFlaxenField_p0_v1
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MatthewEntwistle_TheFlaxenField_p0_v1.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -137,7 +153,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### MutualBenefit_NotForNothing_p0_v0
 
-#### Input Mixture <audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\MutualBenefit_NotForNothing_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
@@ -146,7 +163,8 @@ The following section demonstrates the 16 mixed test songs and also the estimati
 
 #### TheKitchenettes_Alive_p0_v0
 
-#### Input Mixture <audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0.mp3" controls="" preload=""></audio>
+#### Input Mixture 
+<audio src="Demo_mp3_15sec\TheKitchenettes_Alive_p0_v0.mp3" controls="" preload=""></audio>
 
 |    Model    |  Spleeter  |   Model A   |   Model B   |
 |---|---|---|---|
