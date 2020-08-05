@@ -13,8 +13,7 @@
 </html>
 
 
-This is the demo page for the paper titled “Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation”.
-
+This is the demo page for the paper titled “[Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation](https://github.com/SunnyCYC/aug4mss)”.
 
 ## Introduction
 
@@ -24,7 +23,7 @@ The following section demonstrates the 16 test songs remixed from MedleyDB (unse
 
 Note that both Model A and Model B outperform Spleeter since Spleeter was not pretrained on violin data. Model A achieves higher SDR for piano stems, and the augmented Model B performes better for violin stems.
 
-### Demo audio
+## Demo audio
 
 #### JoelHelander_ExcessiveResistancetoChange_p0_v0
 
