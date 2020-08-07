@@ -13,7 +13,8 @@
 </html>
 
 
-This is the demo page for the paper titled “Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation”. <[paper](https://arxiv.org/abs/2008.02480)><[github](https://github.com/SunnyCYC/aug4mss)>
+This is the demo page for the paper titled “Mixing-Specific Data Augmentation Techniques for Improved Blind Violin/Piano Source Separation”. <[**paper**](https://arxiv.org/abs/2008.02480)><[**github**](https://github.com/SunnyCYC/aug4mss)><[**pretrained models (GoogleDrive)**](https://drive.google.com/drive/folders/1YyLww3G7-Amu_bs8s9Wl3NceUcQuq3Or)>
+
 ## Introduction
 
 The main purpose of this work is to allow users to apply mixing-specific data augmentation techniques to facilitate the training of a neural network model for source separation, in particular with the Open-Unmix model architecture.
